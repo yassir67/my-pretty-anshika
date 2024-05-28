@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>For Anshika</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            background-color: #fce4ec;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            height: 100vh;
+            margin: 0;
+            text-align: center;
+            color: #880e4f;
+        }
+        h1 {
+            font-size: 3em;
+            margin-bottom: 20px;
+        }
+        p {
+            font-size: 1.5em;
+            margin-bottom: 40px;
+        }
+        .roses {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 20px;
+            justify-content: center;
+        }
+        .roses img {
+            width: 300px;
+            height: auto;
+            border-radius: 15px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+            transition: transform 0.3s;
+        }
+        .roses img:hover {
+            transform: scale(1.1);
+        }
+    </style>
+</head>
+<body>
+    <h1>For My pretty little anshika</h1>
+    <p>dekh i cant code for shit and this flower thing is really realllllly difficult so idk here is just a webpage to call you pretty </p>
+    <div class="roses">
+        <img src="" alt="anshika youre the most beautiful girl in this world and i absolutely love you fro that i mean not just because youre pretty i love you because youre the love of my life and id absolutely never choose anyone over you like ever">
+        <img src="https://example.com/rose2.jpg" alt="youre really really hot anshika like trust me absolutely smoking hot like man youre so pretty id die for you like kya sundari hai tu my heart literally just beats for you its more yours than its mine ">
+        <img src="https://example.com/rose3.jpg" alt="I just wanted to tell you that I think you're very pretty anshika not just pretty I think you're the prettiest girl in this world and there's no girl more pretty than you have the prettiest set of eyes and whenever I look at you or your photos my hearts literally melts it's like wow she's so beautiful and I just want to stare at you and just not look away like man anshika you really are very beautiful and every time I see you I wish time would stop and I'd just keep on looking at you like man there is no flaw in you you're peak perfection everything about you is perfection like
+GOD DO I FUCKING LOVE YOU LIKE FUCK MAN I REALLY DO LOVE YOU LIKE HOLY SHIT
+You're a walking poem your the most beautiful person i've ever met and i don't just mean that because of the way u look you're so precious and beautiful and amazing inside and out and i hope u never forget that loving u and knowing u is a privilege that the people who don't appreciate don't deserve 
+Like man you are everything a man could ever ask for you're more than that 
+YOU ARE BEAUTIFUL EVERYTHING ABOUT YOU IS BEAUTIFUL ANSHIKA AND I LOVE YOU WITH MY EVERYTHING 
+Anshika>>>>>
+">
+        <img src="https://example.com/rose4.jpg" alt="i love you so much and i promise as long as i exist youll be loved as long as my heart beats and my body lives i will love you and i will love the absolute shit out of you">
+    </div>
+</body>
+</html>
